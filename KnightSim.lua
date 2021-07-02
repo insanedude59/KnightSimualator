@@ -1,4 +1,4 @@
---made by insanedude59#9329
+--made by insanedude59#1000
        for i,v in pairs(game.Workspace:GetDescendants()) do
     if v.Parent == game:GetService("Workspace").Enemies.Lobby then
         while v.Humanoid.Health ~= 0 do wait()
